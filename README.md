@@ -21,18 +21,6 @@ I tot això perquè algú va decidir combinar, escultura, modelatge, impressió 
 
 Avui dia tampoc es que diguem que sigui una cosa que fem servir al día a día; almenys ara, però si un comença a rebuscar i a explorar les utilitats de la impressió 3D es dona compte que hi ha tot un mòn per explorar, per exemple, científics o enginyers, poden fer models 3D dels seus prototips a petita escala, per a fer presentacions o estudiar les diverses aplicacions físiques que tindrien aquests prototips.
 
-
-Impresió 3D:
-https://es.wikipedia.org/wiki/Impresi%C3%B3n_3D
-https://es.wikipedia.org/wiki/Estereolitograf%C3%ADa
-https://es.wikipedia.org/wiki/Chuck_Hull
-https://onepagerules.com/
-
-Vtubing:
-https://es.wikipedia.org/wiki/Youtuber_virtual
-https://www.youtube.com/c/AIChannel
-https://www.youtube.com/watch?v=04VrZ1xrLjw
-
 Una d’aquestes altres aplicacions es veuen en el món de les miniatures, diferents escultors 3D i jugadors de jocs de taula veuen la tecnologia d’impressió 3D com a un altre pas en l’evolució dels jocs de taula, daus, accessoris de joc per a les seves partides i fins i tot miniatures, son coses que ara qualsevol persona pot tenir a la seva disposició sempre i quan tingui una impressora 3D i un arxiu compatible.
 
 Moltes d’aquestes persones, al veure el malestar de la comunitat dels «wargames» i jocs de taula amb les empreses proveïdores principals, han decidit usar les seves habilitats de modelatge i escultura per crear els seus propis jocs o les seves pròpies versions d’aquestes miniatures a preus molt més barats del que serien les miniatures originals, un d’aquests exemples, es One Page Rules, Una empresa de jocs agnòstics (jocs amb regles adaptades en els quals pots fer servir qualsevol tipus de miniatures i de qualsevol empresa, sempre i quan juguis amb un reglament unificat) que ha creat un seguit de regles pròpies per a un joc de simulació bèl·lica i ha aprofitat aquestes regles per a crear versions pròpies de miniatures molt conegudes en el mòn dels wargames que qualsevol persona que hagi pagat per els arxius 3D d’aquestes miniatures, pot imprimir-les a casa seva per tenir un exèrcit propi de miniatures per potser, un terç del cost que es tindria que pagar per les miniatures originals. 
@@ -45,3 +33,15 @@ En els anys en els que estem, tothom ha escoltat a parlar dels «Youtubers» o �
 Però dintre del món de Youtube o Twitch hi han moltes diferències entre els diferents «youtubers» o «streamers» tant per els temes dels que parlen com de la manera la cual entretenen a la seva audiència; alguns només fan vídeos sobre videojocs, alguns els hi agrada pintar en directe, altres es creen un personatge i actuen mentres fan qualsevol altre cosa o directament es disfressen d’un personatge de ficció que els agrada. Però hi han alguns, que han anat un pas més enllà: han creat un personatge 3d i el fan servir com a pseudònim per a entretenir a la gent mentre fan «streams», entrevistes o juguen a videojocs, es el fenomen conegut com: Vtubing.
 
 Tot va començar al japó amb el fenomen de les Idols, noies que s'organitzen en grups per fer concerts de música i entreteniment general, que s’han convertit en una de les marques més reconegudes del Japó modern, a finals del 2016, la que sería la primera Vtuber, va agafar a internet per sorpresa guanyant una popularitat sense precedents, el personatge: Kizuna Ai era el model 3D d’una noia d’estil anime que era animada a través d’un programa de reconeixement facial i un tratge de motion capture; el model en sí no només ha de ser modelat amb tot tipus de detalls, (algúns més senzills o alguns més rocambolescs) sinó que també ha de ser programat i enllaçat als moviments del tratge i per als que no el tinguin, el model ha de ser programat per a que façi certs moviments al pressionar cert comandament i adequar-lo a un programa de reconeixement facial; esculptura, programació,animació i entreteniment en un mateix paquet, un tast de el que ens depara el futur del entreteniment.
+
+
+Impresió 3D:
+https://es.wikipedia.org/wiki/Impresi%C3%B3n_3D
+https://es.wikipedia.org/wiki/Estereolitograf%C3%ADa
+https://es.wikipedia.org/wiki/Chuck_Hull
+https://onepagerules.com/
+
+Vtubing:
+https://es.wikipedia.org/wiki/Youtuber_virtual
+https://www.youtube.com/c/AIChannel
+https://www.youtube.com/watch?v=04VrZ1xrLjw
