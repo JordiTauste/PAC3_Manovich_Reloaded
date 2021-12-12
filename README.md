@@ -39,9 +39,12 @@ Impresió 3D:
 https://es.wikipedia.org/wiki/Impresi%C3%B3n_3D
 https://es.wikipedia.org/wiki/Estereolitograf%C3%ADa
 https://es.wikipedia.org/wiki/Chuck_Hull
+One Page Rules
 https://onepagerules.com/
 
 Vtubing:
 https://es.wikipedia.org/wiki/Youtuber_virtual
+Kizuna AI
 https://www.youtube.com/c/AIChannel
+Creació, i rigging d'un model 2D
 https://www.youtube.com/watch?v=04VrZ1xrLjw
